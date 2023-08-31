@@ -90,7 +90,7 @@ class MessageWidget {
                   type="text"
                   id="name"
                   name="name"
-                  placeholder="Enter your name"
+                  placeholder="Enter  name"
                 />
             </div>
             <div class="form__field">
@@ -99,7 +99,7 @@ class MessageWidget {
                   type="email"
                   id="email"
                   name="email"
-                  placeholder="Enter your email"
+                  placeholder="Enter  email"
                 />
             </div>
             <div class="form__field">
@@ -108,7 +108,7 @@ class MessageWidget {
                   type="text"
                   id="subject"
                   name="subject"
-                  placeholder="Enter Message Subject"
+                  placeholder="Enter  Subject"
                 />
             </div>
             <div class="form__field">
